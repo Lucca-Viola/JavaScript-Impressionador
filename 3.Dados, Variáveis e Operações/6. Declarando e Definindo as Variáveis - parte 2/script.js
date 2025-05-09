@@ -30,7 +30,7 @@ var nome = "Millene";
 console.log(nome);
 
 var nome = "Daniel"; // redeclararmos pode gear erro
-console.log(noem);
+console.log(nome);
 
 nome = "Lira";
 console.log(nome);
