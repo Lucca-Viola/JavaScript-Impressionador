@@ -10,5 +10,5 @@ console.log(melhoresJogosDoMundo);
 console.log(melhoresJogosDoMundoLimite);
 
 // splice() - Altera o conteúdo de uma string, adicionando, removendo ou substituindo elementos - Não é um método de string, mas sim de array
-string.splice(1, 2);
+string.splice(2, 1); // Remove o item na posição 2 do array
 console.log(string);
